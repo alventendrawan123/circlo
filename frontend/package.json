@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^5.99.0",
-    "@wagmi/core": "^3.4.2",
+    "@wagmi/core": "^3.4.12",
     "circlo-sdk": "0.2.0",
     "circlo-types": "0.1.0",
     "framer-motion": "^12.38.0",
